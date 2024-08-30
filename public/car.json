@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Bugatti Chiron Super Sport 300+",
+        "manufacturer": "Bugatti",
+        "top_speed": "304 mph",
+        "engine": "8.0L Quad-Turbo W16",
+        "price": "$3.9 million",
+        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motor1.com%2Fnews%2F369543%2Fchiron-super-sport-300-revealed%2F&psig=AOvVaw0_bgvilo0y-PstM_cqNSLR&ust=1725108017906000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDii6nenIgDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 2,
+        "name": "Koenigsegg Jesko Absolut",
+        "manufacturer": "Koenigsegg",
+        "top_speed": "330 mph (theoretical)",
+        "engine": "5.0L Twin-Turbo V8",
+        "price": "$2.8 million",
+        "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.yallamotor.com%2Fnews%2Fkoenigsegg-jesko-absolut-breaks-0-400-0-km-h-record-9290&psig=AOvVaw2cP1NHT4VRSMv9q52YX7qf&ust=1725108067190000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDhi77enIgDFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": 3,
+        "name": "Hennessey Venom F5",
+        "manufacturer": "Hennessey",
+        "top_speed": "311 mph",
+        "engine": "6.6L Twin-Turbo V8",
+        "price": "$2.1 million",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIf3Ht3xLmpmqqUgzdv5J4-PSWhIC9s3iSmw&s"
+    },
+    {
+        "id": 4,
+        "name": "SSC Tuatara",
+        "manufacturer": "SSC North America",
+        "top_speed": "282.9 mph",
+        "engine": "5.9L Twin-Turbo V8",
+        "price": "$1.9 million",
+        "image_url": "https://cdn.motor1.com/images/mgl/LBV8L/s3/2020-scc-tuatara.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rimac Nevera",
+        "manufacturer": "Rimac",
+        "top_speed": "258 mph",
+        "engine": "4 Electric Motors",
+        "price": "$2.4 million",
+        "image_url": "https://electrek.co/wp-content/uploads/sites/3/2023/06/Rimac-Nevera-hypercar-US-3.jpeg?quality=82&strip=all"
+    },
+    {
+        "id": 6,
+        "name": "McLaren Speedtail",
+        "manufacturer": "McLaren",
+        "top_speed": "250 mph",
+        "engine": "4.0L Twin-Turbo V8 Hybrid",
+        "price": "$2.2 million",
+        "image_url": "https://mclaren.scene7.com/is/image/mclaren/Speedtail%20Florida%202390_1920x1050-1:crop-16x9?wid=1786&hei=1005"
+    },
+    {
+        "id": 7,
+        "name": "Aston Martin Valkyrie",
+        "manufacturer": "Aston Martin",
+        "top_speed": "250 mph",
+        "engine": "6.5L V12 Hybrid",
+        "price": "$3 million",
+        "image_url": "https://cdn.motor1.com/images/mgl/JOOrvX/s1/aston-martin-valkyrie-pro-laguna-seca.webp"
+    },
+    {
+        "id": 8,
+        "name": "Ferrari SF90 Stradale",
+        "manufacturer": "Ferrari",
+        "top_speed": "211 mph",
+        "engine": "4.0L Twin-Turbo V8 Hybrid",
+        "price": "$625,000",
+        "image_url": "https://www.topgear.com/sites/default/files/cars-car/image/2020/07/dsc09285.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Porsche 911 GT2 RS",
+        "manufacturer": "Porsche",
+        "top_speed": "211 mph",
+        "engine": "3.8L Twin-Turbo Flat-6",
+        "price": "$293,200",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabUlanvQThsw3kAvtT0fIg2h6W2qA7pmxdw&s"
+    },
+    {
+        "id": 10,
+        "name": "Lamborghini Aventador SVJ",
+        "manufacturer": "Lamborghini",
+        "top_speed": "217 mph",
+        "engine": "6.5L V12",
+        "price": "$517,770",
+        "image_url": "https://media.drive.com.au/obj/tx_rs:auto:1920:1080:1/driveau/upload/cms/uploads/5ug7qfGSqCiNWsRUAHAp"
+    },
+    {
+        "id": 11,
+        "name": "Pagani Huayra BC",
+        "manufacturer": "Pagani",
+        "top_speed": "238 mph",
+        "engine": "6.0L Twin-Turbo V12",
+        "price": "$3.5 million",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_ZUgPcya5bJSKt2zSkE_NHBFTHMi6YDyWA&s"
+    },
+    {
+        "id": 12,
+        "name": "Tesla Roadster",
+        "manufacturer": "Tesla",
+        "top_speed": "250 mph",
+        "engine": "Electric Motors",
+        "price": "$200,000",
+        "image_url": "https://www.team-bhp.com/forum/attachments/electric-cars/2577726d1709190680-tesla-roadster-will-do-0-60-mph-under-1-second-claims-elon-musk-teslaroadster.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Lexus LFA",
+        "manufacturer": "Lexus",
+        "top_speed": "202 mph",
+        "engine": "4.8L V10",
+        "price": "$375,000",
+        "image_url": "https://cdn.motor1.com/images/mgl/Bwy7Z/s1/lexus-lfa.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Mercedes-AMG One",
+        "manufacturer": "Mercedes-AMG",
+        "top_speed": "217 mph",
+        "engine": "1.6L Turbo V6 Hybrid",
+        "price": "$2.7 million",
+        "image_url": "https://www.mercedes-amg.com/dam/hq/models/Vehicles/project-one/mercedes-amg-x1-one-ext-sx005-v005-1920x1080.jpg/_jcr_content/renditions/original.1653494546752./mercedes-amg-x1-one-ext-sx005-v005-1920x1080.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Bentley Continental GT Speed",
+        "manufacturer": "Bentley",
+        "top_speed": "208 mph",
+        "engine": "6.0L Twin-Turbo W12",
+        "price": "$240,000",
+        "image_url": "https://www.cityam.com/wp-content/uploads/2021/07/GT-Speed-Candy-Red-1-scaled.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Rolls-Royce Wraith",
+        "manufacturer": "Rolls-Royce",
+        "top_speed": "155 mph",
+        "engine": "6.6L Twin-Turbo V12",
+        "price": "$330,000",
+        "image_url": "https://cdn.motor1.com/images/mgl/13jgw/s3/rolls-royce-black-badge-wraith-by-spofec.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Ford GT",
+        "manufacturer": "Ford",
+        "top_speed": "216 mph",
+        "engine": "3.5L Twin-Turbo V6",
+        "price": "$500,000",
+        "image_url": "https://sinsheim.technik-museum.de/assets/uploads/images/1925/ford-gt.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Nissan GT-R Nismo",
+        "manufacturer": "Nissan",
+        "top_speed": "205 mph",
+        "engine": "3.8L Twin-Turbo V6",
+        "price": "$210,740",
+        "image_url": "https://car-images.bauersecure.com/wp-images/13098/2022-gt-r-nismo-00.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Chevrolet Corvette ZR1",
+        "manufacturer": "Chevrolet",
+        "top_speed": "212 mph",
+        "engine": "6.2L Supercharged V8",
+        "price": "$123,000",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6u1QHKqxshm8RxONtkQqELIWgOIn9Y2TJpA&s"
+    },
+    {
+        "id": 20,
+        "name": "Audi R8 V10 Performance",
+        "manufacturer": "Audi",
+        "top_speed": "205 mph",
+        "engine": "5.2L V10",
+        "price": "$208,100",
+        "image_url": "https://media.fastestlaps.com/audi-r8-v10-performance-3.jpg"
+    }
+]
